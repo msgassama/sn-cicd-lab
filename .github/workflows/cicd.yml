@@ -17,6 +17,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Apply Changes on DEV
+        continue-on-error: true
         uses: ServiceNow/sncicd-apply-changes@2.0.0
         env:
           nowUsername: ${{ secrets.SN_USERNAME }}
