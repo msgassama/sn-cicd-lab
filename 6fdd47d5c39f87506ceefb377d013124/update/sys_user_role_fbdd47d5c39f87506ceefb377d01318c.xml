@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Default admin role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <federated_id>aYnvlpIUEcB6j19FlGrW3zpfT57xLULU5cvGWbzNxCc=</federated_id>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1833475_cicd_lab.admin</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>admin</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-12 14:48:13</sys_created_on>
+        <sys_id>fbdd47d5c39f87506ceefb377d01318c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1833475_cicd_lab.admin</sys_name>
+        <sys_package display_value="CICD Lab" source="x_1833475_cicd_lab">6fdd47d5c39f87506ceefb377d013124</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CICD Lab">6fdd47d5c39f87506ceefb377d013124</sys_scope>
+        <sys_update_name>sys_user_role_fbdd47d5c39f87506ceefb377d01318c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-12 14:48:13</sys_updated_on>
+    </sys_user_role>
+</record_update>

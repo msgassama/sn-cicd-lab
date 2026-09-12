@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e19ecf19c39f87506ceefb377d0131f8" label="Lab Ticket" max_length="40" name="x_1833475_cicd_lab_lab_ticket" type="collection">
+        <element label="Priority" max_length="40" name="priority" type="integer"/>
+        <element label="Short description" max_length="100" name="short_description" type="string"/>
+        <element label="Status" max_length="40" name="status" type="string"/>
+    </element>
+</database>

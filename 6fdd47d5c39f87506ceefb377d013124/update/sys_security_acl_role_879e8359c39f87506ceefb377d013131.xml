@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-12 14:51:27</sys_created_on>
+        <sys_id>879e8359c39f87506ceefb377d013131</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1833475_cicd_lab_lab_ticket.x_1833475_cicd_lab.user</sys_name>
+        <sys_package display_value="CICD Lab" source="x_1833475_cicd_lab">6fdd47d5c39f87506ceefb377d013124</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CICD Lab">6fdd47d5c39f87506ceefb377d013124</sys_scope>
+        <sys_security_acl display_value="x_1833475_cicd_lab_lab_ticket">c79e8359c39f87506ceefb377d013113</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_879e8359c39f87506ceefb377d013131</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-12 14:51:27</sys_updated_on>
+        <sys_user_role display_value="x_1833475_cicd_lab.user" name="x_1833475_cicd_lab.user">f7dd47d5c39f87506ceefb377d0131a6</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
