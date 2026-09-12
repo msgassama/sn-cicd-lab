@@ -23,8 +23,6 @@ jobs:
           nowPassword: ${{ secrets.SN_PASSWORD }}
           nowSourceInstance: ${{ secrets.SN_DEV_INSTANCE }}
           appSysID: ${{ secrets.APP_SYS_ID }}
-          appScope: ${{ secrets.APP_SCOPE }}
-          branch: 'dev'
 
   promote:
     name: Merge dev -> prod & deploy PROD
@@ -52,5 +50,4 @@ jobs:
           nowPassword: ${{ secrets.SN_PASSWORD }}
           nowSourceInstance: ${{ secrets.SN_PROD_INSTANCE }}
           appSysID: ${{ secrets.APP_SYS_ID }}
-          appScope: ${{ secrets.APP_SCOPE }}
           branch: 'prod'
