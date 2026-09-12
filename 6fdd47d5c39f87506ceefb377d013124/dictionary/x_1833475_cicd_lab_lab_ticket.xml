@@ -3,5 +3,6 @@
         <element label="Priority" max_length="40" name="priority" type="integer"/>
         <element label="Short description" max_length="100" name="short_description" type="string"/>
         <element label="Status" max_length="40" name="status" type="string"/>
+        <element label="Notes" max_length="200" name="notes" type="string"/>
     </element>
 </database>
